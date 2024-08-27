@@ -1,0 +1,6 @@
+class Condition{
+	public static void main(String[]args){
+		int mark=98;
+		System.out.println((mark>=50)?"pass":"fail");
+	}
+}
